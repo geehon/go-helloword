@@ -2,7 +2,7 @@
 
 ## 安装Golang
 
-官方最新版安装教程 [Link](https://golang.org/doc/install?download=go1.15.7.linux-amd64.tar.gz)
+官方最新版安装教程 [Link](https://golang.org/doc/install)
 
 ## 设置 Go modules 镜像代理服务
 
