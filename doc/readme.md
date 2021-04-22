@@ -2,7 +2,7 @@
 
 ## 安装Golang
 
-官方最新版安装教程 [Link](https://golang.org/doc/install?download=go1.15.7.linux-amd64.tar.gz)
+官方最新版安装教程 [Link](https://golang.org/doc/install)
 
 ## 设置 Go modules 镜像代理服务
 
@@ -35,3 +35,5 @@ go env -w GOPROXY="https://goproxy.io,direct"
 golang 官方扩展 [golang.go](https://marketplace.visualstudio.com/items?itemName=golang.go)
 
 推荐安装 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+微软go教程 [https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/](https://docs.microsoft.com/zh-cn/learn/paths/go-first-steps/)
